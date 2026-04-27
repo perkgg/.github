@@ -1,1 +1,1 @@
-![wdmk-gb.png](wdmk-gb.png)
+![wdmk-gb.png](../wdmk-gb.png)
